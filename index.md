@@ -9,6 +9,7 @@ My GitHub page is http://github.com/d3943o.
 ### CPSC 120
 
 * Lab 2
+   
     Lab 2, Part 1 was one of my favorite labs because it was an introduction to my programming in general. I was able to use variable and assign them to different words in order to produce a specific outcome. 
 
 * Lab 4
